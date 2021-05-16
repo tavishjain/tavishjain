@@ -31,7 +31,7 @@
 # ❤ to Build - Software Engineer & Deep Learning Enthusiast!
 
 
-Hi, I'm Tavish — a **software engineer** trying to build some real stuff through code & coffee. Ready for discussions on technology, science, mathematics, The Big Bang Theory, Silicon Valley and leadership skills ✌💖
+Hi, I'm Tavish — a **software engineer** trying to build some real stuff through code & coffee. 
 
 <!-- section - intro -->
 
