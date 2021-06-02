@@ -62,9 +62,11 @@ Python . C++ . Java
 
 ## On the job .. 💯
 
-> Software Engineer Intern - [**The Energy and Resources Institute, India**]()  ⭐
+> Software Engineering Intern - [**Samsung R&D Institute**]()
 
 > Undergraduate Research Intern - [**Delhi Technlogical University**]()
+
+> Software Engineer Intern - [**The Energy and Resources Institute, India**]()  ⭐
 
 
 <!-- section - job details -->
