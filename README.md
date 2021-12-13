@@ -62,6 +62,10 @@ Python . C++ . Java
 
 ## On the job .. 💯
 
+> Associate Member of Technical Staff - [**Salesforce**]()
+
+> Backend Software Engineer - [**Schlumberger**]()
+
 > Software Engineering Intern - [**Samsung R&D Institute**]()
 
 > Undergraduate Research Intern - [**Delhi Technlogical University**]()
