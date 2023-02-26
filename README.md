@@ -42,7 +42,6 @@ Hi, I'm Tavish — a **software engineer** trying to build some real stuff throu
 [![twitter tavishjain][3.1]][3]
 [![medium tavishjain][4.1]][4]
 [![stackoverflow tavishjain][5.1]][5]
-<!-- [![dev to tavishjain][6.1]][6] -->
 
 <!-- section - social media icons -->
 
@@ -98,11 +97,5 @@ Thanks for reading about me. You can connect with me on ..
 [![github tavishjain][2.1]][2]
 [![twitter tavishjain][3.1]][3]
 [![medium tavishjain][4.1]][4]
-[![stackoverflow om-bharatiya][5.1]][5]
-<!-- [![dev to tavishjain][6.1]][6] -->
+[![stackoverflow tavishjain][5.1]][5]
 
-<!-- section - social media icons -->
-
-<p align='center'>
-<img align='center' src="https://visitor-badge.glitch.me/badge?page_id=tavishjain.visitor-badge">
- <p/>
