@@ -51,25 +51,12 @@ Hi, I'm Tavish — a **software engineer** trying to build some real stuff throu
 
 ## I work on .. 💻
 
-Pytorch . Deep Learning . Machine Learning . Natural Language Processing . Tensorflow . Android Development
-
 Python . C++ . Java
 
 <!-- section - skills -->
 
 <!-- section - job details -->
 
-## On the job .. 💯
-
-> Associate Member of Technical Staff - [**Salesforce**]()
-
-> Backend Software Engineer - [**Schlumberger**]()
-
-> Software Engineering Intern - [**Samsung R&D Institute**]()
-
-> Undergraduate Research Intern - [**Delhi Technlogical University**]()
-
-> Software Engineer Intern - [**The Energy and Resources Institute, India**]()  ⭐
 
 
 <!-- section - job details -->
@@ -84,8 +71,6 @@ Python . C++ . Java
 👨‍💻 I _BUILD_ resilient apps & models
 
 📰 Reading & writing _TECH BLOGS_
-
-🍕 _HACKATHONS_ & problem solving
 
 ## Thank you
 
